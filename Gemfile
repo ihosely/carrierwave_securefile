@@ -13,4 +13,4 @@ group :development do
 end
 
 gem 'carrierwave', '>= 0.5.8'
-gem 'crypt19', '1.2.1'
+gem 'otherinbox-crypt19', '1.2.1'
